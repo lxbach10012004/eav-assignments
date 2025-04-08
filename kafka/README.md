@@ -162,7 +162,7 @@ Invoke-RestMethod http://localhost:8081/users
 
 Thông điệp sẽ được gửi từ Producer → Kafka → Consumer. Kết quả xử lý được hiển thị như sau:
 
-![Kết quả](/img/1.png) 
+![Kết quả](img/1.png) 
 
 
 
